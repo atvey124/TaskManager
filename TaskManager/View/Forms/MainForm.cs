@@ -16,6 +16,13 @@ namespace TaskManager
             RenameTitleTextLabel("Home");
         }
 
+        private void TasksButton_Click(object sender, EventArgs e)
+        {
+            OffButton();
+            FillButton(TasksButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("Tasks");
+        }
+
         private void SettingsButton_Click(object sender, EventArgs e)
         {
             OffButton();
