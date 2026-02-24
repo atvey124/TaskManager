@@ -11,47 +11,54 @@ namespace TaskManager
 
         private void HomeButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(HomeButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("Home");
         }
 
         private void SettingsButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(SettingsButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("Settings");
         }
 
         private void UpdatesButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(UpdatesButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("Updates");
         }
 
         private void StatisticsButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(StatisticsButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("Statistics");
         }
 
         private void helpButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(helpButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("Help");
         }
 
         private void AboutButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(AboutButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("About");
         }
 
         private void LogOutButton_Click(object sender, EventArgs e)
         {
-            IsButtonOff();
+            OffButton();
             FillButton(LogOutButton, Color.DarkGoldenrod);
+            RenameTitleTextLabel("LogOut");
         }
 
-        private void IsButtonOff()
+        private void OffButton()
         {
             foreach(var control in SideMenuPanel.Controls)
             {
@@ -64,6 +71,11 @@ namespace TaskManager
         private void FillButton(Guna2Button button,Color color)
         {
             button.FillColor = color;
+        }
+
+        private void RenameTitleTextLabel(string message)
+        {
+            TitleTextLabel.Text = message;
         }
     }
 }
