@@ -84,5 +84,15 @@ namespace TaskManager
         {
             TitleTextLabel.Text = message;
         }
+
+        private void label1_click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
