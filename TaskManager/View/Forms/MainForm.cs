@@ -1,12 +1,18 @@
 using Guna.UI2.WinForms;
+using TaskManager.View.Forms;
+
 
 namespace TaskManager
 {
     public partial class MainForm : Form
     {
+        DashboardForm dashboardForm = new DashboardForm();
+        TasksForm tasksForm = new TasksForm();
+
         public MainForm()
         {
             InitializeComponent();
+            LoadForm(dashboardForm);
         }
 
         private void HomeButton_Click(object sender, EventArgs e)
@@ -14,6 +20,7 @@ namespace TaskManager
             OffButton();
             FillButton(HomeButton, Color.DarkGoldenrod);
             RenameTitleTextLabel("Home");
+            LoadForm(dashboardForm);
         }
 
         private void TasksButton_Click(object sender, EventArgs e)
@@ -21,6 +28,7 @@ namespace TaskManager
             OffButton();
             FillButton(TasksButton, Color.DarkGoldenrod);
             RenameTitleTextLabel("Tasks");
+            LoadForm(tasksForm);
         }
 
         private void SettingsButton_Click(object sender, EventArgs e)
@@ -83,6 +91,17 @@ namespace TaskManager
         private void RenameTitleTextLabel(string message)
         {
             TitleTextLabel.Text = message;
+        }
+
+        private void LoadForm(Form form)
+        {
+            PageContainerPanel.Controls.Clear();
+            form.TopLevel = false;
+            form.TopMost = true;
+            form.Dock = DockStyle.Fill;
+            PageContainerPanel.Controls.Add(form);
+            form.BringToFront();
+            form.Show();
         }
 
     }

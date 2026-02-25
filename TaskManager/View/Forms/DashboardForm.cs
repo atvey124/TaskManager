@@ -14,5 +14,10 @@ namespace TaskManager.View.Forms
         {
             InitializeComponent();
         }
+
+        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
