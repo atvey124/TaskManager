@@ -782,7 +782,7 @@
             label27.AutoSize = true;
             label27.Font = new Font("Arial Narrow", 15.75F, FontStyle.Bold);
             label27.ForeColor = SystemColors.ActiveCaptionText;
-            label27.Location = new Point(560, 74);
+            label27.Location = new Point(559, 74);
             label27.Name = "label27";
             label27.Size = new Size(257, 25);
             label27.TabIndex = 33;
