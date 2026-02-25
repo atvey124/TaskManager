@@ -67,7 +67,7 @@
             guna2CircleProgressBar1.FillThickness = 5;
             guna2CircleProgressBar1.Font = new Font("Segoe UI", 12F);
             guna2CircleProgressBar1.ForeColor = Color.White;
-            guna2CircleProgressBar1.Location = new Point(85, 16);
+            guna2CircleProgressBar1.Location = new Point(76, 16);
             guna2CircleProgressBar1.Minimum = 0;
             guna2CircleProgressBar1.Name = "guna2CircleProgressBar1";
             guna2CircleProgressBar1.ProgressColor = Color.Yellow;
@@ -86,7 +86,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label1.Location = new Point(151, 27);
+            label1.Location = new Point(129, 27);
             label1.Name = "label1";
             label1.Size = new Size(360, 30);
             label1.TabIndex = 9;
@@ -137,16 +137,18 @@
             // 
             TickBox.Animated = true;
             TickBox.AutoSize = true;
+            TickBox.Checked = true;
             TickBox.CheckedState.BorderColor = Color.FromArgb(94, 148, 255);
             TickBox.CheckedState.BorderRadius = 0;
             TickBox.CheckedState.BorderThickness = 0;
             TickBox.CheckedState.FillColor = Color.FromArgb(94, 148, 255);
-            TickBox.Location = new Point(30, 27);
+            TickBox.CheckState = CheckState.Checked;
+            TickBox.Location = new Point(22, 33);
             TickBox.Name = "TickBox";
             TickBox.Size = new Size(15, 14);
             TickBox.TabIndex = 14;
             TickBox.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149);
-            TickBox.UncheckedState.BorderRadius = 0;
+            TickBox.UncheckedState.BorderRadius = 1;
             TickBox.UncheckedState.BorderThickness = 0;
             TickBox.UncheckedState.FillColor = Color.FromArgb(125, 137, 149);
             // 
