@@ -69,7 +69,7 @@
             // SideMenuPanel
             // 
             SideMenuPanel.BackColor = Color.Transparent;
-            SideMenuPanel.BorderRadius = 8;
+            SideMenuPanel.BorderRadius = 30;
             SideMenuPanel.Controls.Add(TasksButton);
             SideMenuPanel.Controls.Add(LogOutButton);
             SideMenuPanel.Controls.Add(SettingsButton);
@@ -78,6 +78,8 @@
             SideMenuPanel.Controls.Add(StatisticsButton);
             SideMenuPanel.Controls.Add(UpdatesButton);
             SideMenuPanel.Controls.Add(HomeButton);
+            customizableEdges17.BottomLeft = false;
+            customizableEdges17.TopLeft = false;
             SideMenuPanel.CustomizableEdges = customizableEdges17;
             SideMenuPanel.Dock = DockStyle.Left;
             SideMenuPanel.FillColor = Color.DarkSlateGray;
@@ -352,10 +354,11 @@
             // PageContainerPanel
             // 
             PageContainerPanel.CustomizableEdges = customizableEdges21;
-            PageContainerPanel.Location = new Point(370, 286);
+            PageContainerPanel.Dock = DockStyle.Bottom;
+            PageContainerPanel.Location = new Point(364, 286);
             PageContainerPanel.Name = "PageContainerPanel";
             PageContainerPanel.ShadowDecoration.CustomizableEdges = customizableEdges22;
-            PageContainerPanel.Size = new Size(1361, 813);
+            PageContainerPanel.Size = new Size(1379, 813);
             PageContainerPanel.TabIndex = 7;
             // 
             // MainForm

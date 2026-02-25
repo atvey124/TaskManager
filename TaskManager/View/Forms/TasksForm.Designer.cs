@@ -163,6 +163,7 @@
             // 
             // TaskFlowPanel
             // 
+            TaskFlowPanel.AutoScroll = true;
             TaskFlowPanel.Location = new Point(12, 118);
             TaskFlowPanel.Name = "TaskFlowPanel";
             TaskFlowPanel.Size = new Size(1359, 579);
