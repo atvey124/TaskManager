@@ -32,6 +32,24 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges47 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges37 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges38 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges21 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -58,26 +76,26 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges41 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges44 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges45 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             guna2Panel5 = new Guna.UI2.WinForms.Guna2Panel();
+            guna2Panel10 = new Guna.UI2.WinForms.Guna2Panel();
+            label33 = new Label();
+            guna2CircleProgressBar6 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
+            guna2Panel9 = new Guna.UI2.WinForms.Guna2Panel();
+            label32 = new Label();
+            guna2CircleProgressBar5 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
+            guna2Panel8 = new Guna.UI2.WinForms.Guna2Panel();
+            label31 = new Label();
+            guna2CircleProgressBar4 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
+            guna2Panel7 = new Guna.UI2.WinForms.Guna2Panel();
+            label30 = new Label();
+            guna2CircleProgressBar3 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
+            guna2Panel6 = new Guna.UI2.WinForms.Guna2Panel();
+            label29 = new Label();
+            guna2CircleProgressBar2 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
+            guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            label28 = new Label();
+            guna2CircleProgressBar1 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
             guna2Panel16 = new Guna.UI2.WinForms.Guna2Panel();
             label39 = new Label();
             guna2CircleProgressBar12 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
@@ -138,26 +156,14 @@
             label23 = new Label();
             label22 = new Label();
             label21 = new Label();
-            guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            label28 = new Label();
-            guna2CircleProgressBar1 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
-            guna2Panel6 = new Guna.UI2.WinForms.Guna2Panel();
-            label29 = new Label();
-            guna2CircleProgressBar2 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
-            guna2Panel7 = new Guna.UI2.WinForms.Guna2Panel();
-            label30 = new Label();
-            guna2CircleProgressBar3 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
-            guna2Panel8 = new Guna.UI2.WinForms.Guna2Panel();
-            label31 = new Label();
-            guna2CircleProgressBar4 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
-            guna2Panel9 = new Guna.UI2.WinForms.Guna2Panel();
-            label32 = new Label();
-            guna2CircleProgressBar5 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
-            guna2Panel10 = new Guna.UI2.WinForms.Guna2Panel();
-            label33 = new Label();
-            guna2CircleProgressBar6 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
             guna2Panel1.SuspendLayout();
             guna2Panel5.SuspendLayout();
+            guna2Panel10.SuspendLayout();
+            guna2Panel9.SuspendLayout();
+            guna2Panel8.SuspendLayout();
+            guna2Panel7.SuspendLayout();
+            guna2Panel6.SuspendLayout();
+            guna2Panel2.SuspendLayout();
             guna2Panel16.SuspendLayout();
             guna2Panel15.SuspendLayout();
             guna2Panel14.SuspendLayout();
@@ -171,12 +177,6 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             guna2Panel4.SuspendLayout();
             guna2Panel3.SuspendLayout();
-            guna2Panel2.SuspendLayout();
-            guna2Panel6.SuspendLayout();
-            guna2Panel7.SuspendLayout();
-            guna2Panel8.SuspendLayout();
-            guna2Panel9.SuspendLayout();
-            guna2Panel10.SuspendLayout();
             SuspendLayout();
             // 
             // guna2Panel1
@@ -224,6 +224,282 @@
             guna2Panel5.ShadowDecoration.CustomizableEdges = customizableEdges38;
             guna2Panel5.Size = new Size(1077, 630);
             guna2Panel5.TabIndex = 8;
+            // 
+            // guna2Panel10
+            // 
+            guna2Panel10.BackColor = Color.Transparent;
+            guna2Panel10.BorderRadius = 12;
+            guna2Panel10.Controls.Add(label33);
+            guna2Panel10.Controls.Add(guna2CircleProgressBar6);
+            guna2Panel10.CustomizableEdges = customizableEdges2;
+            guna2Panel10.FillColor = Color.DarkSlateGray;
+            guna2Panel10.Location = new Point(29, 530);
+            guna2Panel10.Name = "guna2Panel10";
+            guna2Panel10.ShadowDecoration.CustomizableEdges = customizableEdges3;
+            guna2Panel10.Size = new Size(468, 75);
+            guna2Panel10.TabIndex = 41;
+            // 
+            // label33
+            // 
+            label33.AutoSize = true;
+            label33.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label33.ForeColor = SystemColors.ActiveCaptionText;
+            label33.Location = new Point(100, 23);
+            label33.Name = "label33";
+            label33.Size = new Size(305, 31);
+            label33.TabIndex = 31;
+            label33.Text = "Learn French(Prepositions)";
+            // 
+            // guna2CircleProgressBar6
+            // 
+            guna2CircleProgressBar6.FillColor = Color.Yellow;
+            guna2CircleProgressBar6.FillThickness = 5;
+            guna2CircleProgressBar6.Font = new Font("Segoe UI", 12F);
+            guna2CircleProgressBar6.ForeColor = Color.White;
+            guna2CircleProgressBar6.Location = new Point(24, 14);
+            guna2CircleProgressBar6.Minimum = 0;
+            guna2CircleProgressBar6.Name = "guna2CircleProgressBar6";
+            guna2CircleProgressBar6.ProgressColor = Color.Yellow;
+            guna2CircleProgressBar6.ProgressColor2 = Color.FromArgb(255, 128, 0);
+            guna2CircleProgressBar6.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar6.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar6.ProgressThickness = 3;
+            guna2CircleProgressBar6.ShadowDecoration.CustomizableEdges = customizableEdges1;
+            guna2CircleProgressBar6.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            guna2CircleProgressBar6.Size = new Size(47, 47);
+            guna2CircleProgressBar6.TabIndex = 7;
+            guna2CircleProgressBar6.Text = "guna2CircleProgressBar6";
+            guna2CircleProgressBar6.Value = 60;
+            // 
+            // guna2Panel9
+            // 
+            guna2Panel9.BackColor = Color.Transparent;
+            guna2Panel9.BorderRadius = 12;
+            guna2Panel9.Controls.Add(label32);
+            guna2Panel9.Controls.Add(guna2CircleProgressBar5);
+            guna2Panel9.CustomizableEdges = customizableEdges5;
+            guna2Panel9.FillColor = Color.DarkSlateGray;
+            guna2Panel9.Location = new Point(29, 449);
+            guna2Panel9.Name = "guna2Panel9";
+            guna2Panel9.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            guna2Panel9.Size = new Size(468, 75);
+            guna2Panel9.TabIndex = 40;
+            // 
+            // label32
+            // 
+            label32.AutoSize = true;
+            label32.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label32.ForeColor = SystemColors.ActiveCaptionText;
+            label32.Location = new Point(100, 23);
+            label32.Name = "label32";
+            label32.Size = new Size(305, 31);
+            label32.TabIndex = 31;
+            label32.Text = "Learn French(Prepositions)";
+            // 
+            // guna2CircleProgressBar5
+            // 
+            guna2CircleProgressBar5.FillColor = Color.Yellow;
+            guna2CircleProgressBar5.FillThickness = 5;
+            guna2CircleProgressBar5.Font = new Font("Segoe UI", 12F);
+            guna2CircleProgressBar5.ForeColor = Color.White;
+            guna2CircleProgressBar5.Location = new Point(24, 14);
+            guna2CircleProgressBar5.Minimum = 0;
+            guna2CircleProgressBar5.Name = "guna2CircleProgressBar5";
+            guna2CircleProgressBar5.ProgressColor = Color.Yellow;
+            guna2CircleProgressBar5.ProgressColor2 = Color.FromArgb(255, 128, 0);
+            guna2CircleProgressBar5.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar5.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar5.ProgressThickness = 3;
+            guna2CircleProgressBar5.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            guna2CircleProgressBar5.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            guna2CircleProgressBar5.Size = new Size(47, 47);
+            guna2CircleProgressBar5.TabIndex = 7;
+            guna2CircleProgressBar5.Text = "guna2CircleProgressBar5";
+            guna2CircleProgressBar5.Value = 60;
+            // 
+            // guna2Panel8
+            // 
+            guna2Panel8.BackColor = Color.Transparent;
+            guna2Panel8.BorderRadius = 12;
+            guna2Panel8.Controls.Add(label31);
+            guna2Panel8.Controls.Add(guna2CircleProgressBar4);
+            guna2Panel8.CustomizableEdges = customizableEdges8;
+            guna2Panel8.FillColor = Color.DarkSlateGray;
+            guna2Panel8.Location = new Point(29, 368);
+            guna2Panel8.Name = "guna2Panel8";
+            guna2Panel8.ShadowDecoration.CustomizableEdges = customizableEdges9;
+            guna2Panel8.Size = new Size(468, 75);
+            guna2Panel8.TabIndex = 39;
+            // 
+            // label31
+            // 
+            label31.AutoSize = true;
+            label31.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label31.ForeColor = SystemColors.ActiveCaptionText;
+            label31.Location = new Point(100, 23);
+            label31.Name = "label31";
+            label31.Size = new Size(305, 31);
+            label31.TabIndex = 31;
+            label31.Text = "Learn French(Prepositions)";
+            // 
+            // guna2CircleProgressBar4
+            // 
+            guna2CircleProgressBar4.FillColor = Color.Yellow;
+            guna2CircleProgressBar4.FillThickness = 5;
+            guna2CircleProgressBar4.Font = new Font("Segoe UI", 12F);
+            guna2CircleProgressBar4.ForeColor = Color.White;
+            guna2CircleProgressBar4.Location = new Point(24, 14);
+            guna2CircleProgressBar4.Minimum = 0;
+            guna2CircleProgressBar4.Name = "guna2CircleProgressBar4";
+            guna2CircleProgressBar4.ProgressColor = Color.Yellow;
+            guna2CircleProgressBar4.ProgressColor2 = Color.FromArgb(255, 128, 0);
+            guna2CircleProgressBar4.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar4.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar4.ProgressThickness = 3;
+            guna2CircleProgressBar4.ShadowDecoration.CustomizableEdges = customizableEdges7;
+            guna2CircleProgressBar4.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            guna2CircleProgressBar4.Size = new Size(47, 47);
+            guna2CircleProgressBar4.TabIndex = 7;
+            guna2CircleProgressBar4.Text = "guna2CircleProgressBar4";
+            guna2CircleProgressBar4.Value = 60;
+            // 
+            // guna2Panel7
+            // 
+            guna2Panel7.BackColor = Color.Transparent;
+            guna2Panel7.BorderRadius = 12;
+            guna2Panel7.Controls.Add(label30);
+            guna2Panel7.Controls.Add(guna2CircleProgressBar3);
+            guna2Panel7.CustomizableEdges = customizableEdges11;
+            guna2Panel7.FillColor = Color.DarkSlateGray;
+            guna2Panel7.Location = new Point(29, 287);
+            guna2Panel7.Name = "guna2Panel7";
+            guna2Panel7.ShadowDecoration.CustomizableEdges = customizableEdges12;
+            guna2Panel7.Size = new Size(468, 75);
+            guna2Panel7.TabIndex = 38;
+            // 
+            // label30
+            // 
+            label30.AutoSize = true;
+            label30.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label30.ForeColor = SystemColors.ActiveCaptionText;
+            label30.Location = new Point(100, 23);
+            label30.Name = "label30";
+            label30.Size = new Size(305, 31);
+            label30.TabIndex = 31;
+            label30.Text = "Learn French(Prepositions)";
+            // 
+            // guna2CircleProgressBar3
+            // 
+            guna2CircleProgressBar3.FillColor = Color.Yellow;
+            guna2CircleProgressBar3.FillThickness = 5;
+            guna2CircleProgressBar3.Font = new Font("Segoe UI", 12F);
+            guna2CircleProgressBar3.ForeColor = Color.White;
+            guna2CircleProgressBar3.Location = new Point(24, 14);
+            guna2CircleProgressBar3.Minimum = 0;
+            guna2CircleProgressBar3.Name = "guna2CircleProgressBar3";
+            guna2CircleProgressBar3.ProgressColor = Color.Yellow;
+            guna2CircleProgressBar3.ProgressColor2 = Color.FromArgb(255, 128, 0);
+            guna2CircleProgressBar3.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar3.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar3.ProgressThickness = 3;
+            guna2CircleProgressBar3.ShadowDecoration.CustomizableEdges = customizableEdges10;
+            guna2CircleProgressBar3.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            guna2CircleProgressBar3.Size = new Size(47, 47);
+            guna2CircleProgressBar3.TabIndex = 7;
+            guna2CircleProgressBar3.Text = "guna2CircleProgressBar3";
+            guna2CircleProgressBar3.Value = 60;
+            // 
+            // guna2Panel6
+            // 
+            guna2Panel6.BackColor = Color.Transparent;
+            guna2Panel6.BorderRadius = 12;
+            guna2Panel6.Controls.Add(label29);
+            guna2Panel6.Controls.Add(guna2CircleProgressBar2);
+            guna2Panel6.CustomizableEdges = customizableEdges14;
+            guna2Panel6.FillColor = Color.DarkSlateGray;
+            guna2Panel6.Location = new Point(29, 206);
+            guna2Panel6.Name = "guna2Panel6";
+            guna2Panel6.ShadowDecoration.CustomizableEdges = customizableEdges15;
+            guna2Panel6.Size = new Size(468, 75);
+            guna2Panel6.TabIndex = 37;
+            // 
+            // label29
+            // 
+            label29.AutoSize = true;
+            label29.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label29.ForeColor = SystemColors.ActiveCaptionText;
+            label29.Location = new Point(100, 23);
+            label29.Name = "label29";
+            label29.Size = new Size(305, 31);
+            label29.TabIndex = 31;
+            label29.Text = "Learn French(Prepositions)";
+            // 
+            // guna2CircleProgressBar2
+            // 
+            guna2CircleProgressBar2.FillColor = Color.Yellow;
+            guna2CircleProgressBar2.FillThickness = 5;
+            guna2CircleProgressBar2.Font = new Font("Segoe UI", 12F);
+            guna2CircleProgressBar2.ForeColor = Color.White;
+            guna2CircleProgressBar2.Location = new Point(24, 14);
+            guna2CircleProgressBar2.Minimum = 0;
+            guna2CircleProgressBar2.Name = "guna2CircleProgressBar2";
+            guna2CircleProgressBar2.ProgressColor = Color.Yellow;
+            guna2CircleProgressBar2.ProgressColor2 = Color.FromArgb(255, 128, 0);
+            guna2CircleProgressBar2.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar2.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar2.ProgressThickness = 3;
+            guna2CircleProgressBar2.ShadowDecoration.CustomizableEdges = customizableEdges13;
+            guna2CircleProgressBar2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            guna2CircleProgressBar2.Size = new Size(47, 47);
+            guna2CircleProgressBar2.TabIndex = 7;
+            guna2CircleProgressBar2.Text = "guna2CircleProgressBar2";
+            guna2CircleProgressBar2.Value = 60;
+            // 
+            // guna2Panel2
+            // 
+            guna2Panel2.BackColor = Color.Transparent;
+            guna2Panel2.BorderRadius = 12;
+            guna2Panel2.Controls.Add(label28);
+            guna2Panel2.Controls.Add(guna2CircleProgressBar1);
+            guna2Panel2.CustomizableEdges = customizableEdges17;
+            guna2Panel2.FillColor = Color.DarkSlateGray;
+            guna2Panel2.Location = new Point(29, 125);
+            guna2Panel2.Name = "guna2Panel2";
+            guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges18;
+            guna2Panel2.Size = new Size(468, 75);
+            guna2Panel2.TabIndex = 36;
+            // 
+            // label28
+            // 
+            label28.AutoSize = true;
+            label28.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label28.ForeColor = SystemColors.ActiveCaptionText;
+            label28.Location = new Point(100, 23);
+            label28.Name = "label28";
+            label28.Size = new Size(305, 31);
+            label28.TabIndex = 31;
+            label28.Text = "Learn French(Prepositions)";
+            // 
+            // guna2CircleProgressBar1
+            // 
+            guna2CircleProgressBar1.FillColor = Color.Yellow;
+            guna2CircleProgressBar1.FillThickness = 5;
+            guna2CircleProgressBar1.Font = new Font("Segoe UI", 12F);
+            guna2CircleProgressBar1.ForeColor = Color.White;
+            guna2CircleProgressBar1.Location = new Point(24, 14);
+            guna2CircleProgressBar1.Minimum = 0;
+            guna2CircleProgressBar1.Name = "guna2CircleProgressBar1";
+            guna2CircleProgressBar1.ProgressColor = Color.Yellow;
+            guna2CircleProgressBar1.ProgressColor2 = Color.FromArgb(255, 128, 0);
+            guna2CircleProgressBar1.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar1.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
+            guna2CircleProgressBar1.ProgressThickness = 3;
+            guna2CircleProgressBar1.ShadowDecoration.CustomizableEdges = customizableEdges16;
+            guna2CircleProgressBar1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            guna2CircleProgressBar1.Size = new Size(47, 47);
+            guna2CircleProgressBar1.TabIndex = 7;
+            guna2CircleProgressBar1.Text = "guna2CircleProgressBar1";
+            guna2CircleProgressBar1.Value = 60;
             // 
             // guna2Panel16
             // 
@@ -518,7 +794,7 @@
             label26.AutoSize = true;
             label26.Font = new Font("Arial Narrow", 15.75F, FontStyle.Bold);
             label26.ForeColor = SystemColors.ActiveCaptionText;
-            label26.Location = new Point(21, 66);
+            label26.Location = new Point(25, 66);
             label26.Name = "label26";
             label26.Size = new Size(249, 25);
             label26.TabIndex = 31;
@@ -529,7 +805,7 @@
             label25.AutoSize = true;
             label25.Font = new Font("Arial Narrow", 24F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label25.ForeColor = SystemColors.ActiveCaptionText;
-            label25.Location = new Point(552, 17);
+            label25.Location = new Point(554, 17);
             label25.Name = "label25";
             label25.Size = new Size(228, 37);
             label25.TabIndex = 32;
@@ -541,7 +817,7 @@
             label24.AutoSize = true;
             label24.Font = new Font("Arial Narrow", 24F, FontStyle.Bold, GraphicsUnit.Point, 204);
             label24.ForeColor = SystemColors.ActiveCaptionText;
-            label24.Location = new Point(17, 17);
+            label24.Location = new Point(21, 17);
             label24.Name = "label24";
             label24.Size = new Size(199, 37);
             label24.TabIndex = 31;
@@ -1002,282 +1278,6 @@
             label21.Text = "2 : 45 PM";
             label21.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // guna2Panel2
-            // 
-            guna2Panel2.BackColor = Color.Transparent;
-            guna2Panel2.BorderRadius = 12;
-            guna2Panel2.Controls.Add(label28);
-            guna2Panel2.Controls.Add(guna2CircleProgressBar1);
-            guna2Panel2.CustomizableEdges = customizableEdges17;
-            guna2Panel2.FillColor = Color.DarkSlateGray;
-            guna2Panel2.Location = new Point(29, 125);
-            guna2Panel2.Name = "guna2Panel2";
-            guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges18;
-            guna2Panel2.Size = new Size(468, 75);
-            guna2Panel2.TabIndex = 36;
-            // 
-            // label28
-            // 
-            label28.AutoSize = true;
-            label28.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label28.ForeColor = SystemColors.ActiveCaptionText;
-            label28.Location = new Point(100, 23);
-            label28.Name = "label28";
-            label28.Size = new Size(305, 31);
-            label28.TabIndex = 31;
-            label28.Text = "Learn French(Prepositions)";
-            // 
-            // guna2CircleProgressBar1
-            // 
-            guna2CircleProgressBar1.FillColor = Color.Yellow;
-            guna2CircleProgressBar1.FillThickness = 5;
-            guna2CircleProgressBar1.Font = new Font("Segoe UI", 12F);
-            guna2CircleProgressBar1.ForeColor = Color.White;
-            guna2CircleProgressBar1.Location = new Point(24, 14);
-            guna2CircleProgressBar1.Minimum = 0;
-            guna2CircleProgressBar1.Name = "guna2CircleProgressBar1";
-            guna2CircleProgressBar1.ProgressColor = Color.Yellow;
-            guna2CircleProgressBar1.ProgressColor2 = Color.FromArgb(255, 128, 0);
-            guna2CircleProgressBar1.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar1.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar1.ProgressThickness = 3;
-            guna2CircleProgressBar1.ShadowDecoration.CustomizableEdges = customizableEdges16;
-            guna2CircleProgressBar1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CircleProgressBar1.Size = new Size(47, 47);
-            guna2CircleProgressBar1.TabIndex = 7;
-            guna2CircleProgressBar1.Text = "guna2CircleProgressBar1";
-            guna2CircleProgressBar1.Value = 60;
-            // 
-            // guna2Panel6
-            // 
-            guna2Panel6.BackColor = Color.Transparent;
-            guna2Panel6.BorderRadius = 12;
-            guna2Panel6.Controls.Add(label29);
-            guna2Panel6.Controls.Add(guna2CircleProgressBar2);
-            guna2Panel6.CustomizableEdges = customizableEdges14;
-            guna2Panel6.FillColor = Color.DarkSlateGray;
-            guna2Panel6.Location = new Point(29, 206);
-            guna2Panel6.Name = "guna2Panel6";
-            guna2Panel6.ShadowDecoration.CustomizableEdges = customizableEdges15;
-            guna2Panel6.Size = new Size(468, 75);
-            guna2Panel6.TabIndex = 37;
-            // 
-            // label29
-            // 
-            label29.AutoSize = true;
-            label29.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label29.ForeColor = SystemColors.ActiveCaptionText;
-            label29.Location = new Point(100, 23);
-            label29.Name = "label29";
-            label29.Size = new Size(305, 31);
-            label29.TabIndex = 31;
-            label29.Text = "Learn French(Prepositions)";
-            // 
-            // guna2CircleProgressBar2
-            // 
-            guna2CircleProgressBar2.FillColor = Color.Yellow;
-            guna2CircleProgressBar2.FillThickness = 5;
-            guna2CircleProgressBar2.Font = new Font("Segoe UI", 12F);
-            guna2CircleProgressBar2.ForeColor = Color.White;
-            guna2CircleProgressBar2.Location = new Point(24, 14);
-            guna2CircleProgressBar2.Minimum = 0;
-            guna2CircleProgressBar2.Name = "guna2CircleProgressBar2";
-            guna2CircleProgressBar2.ProgressColor = Color.Yellow;
-            guna2CircleProgressBar2.ProgressColor2 = Color.FromArgb(255, 128, 0);
-            guna2CircleProgressBar2.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar2.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar2.ProgressThickness = 3;
-            guna2CircleProgressBar2.ShadowDecoration.CustomizableEdges = customizableEdges13;
-            guna2CircleProgressBar2.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CircleProgressBar2.Size = new Size(47, 47);
-            guna2CircleProgressBar2.TabIndex = 7;
-            guna2CircleProgressBar2.Text = "guna2CircleProgressBar2";
-            guna2CircleProgressBar2.Value = 60;
-            // 
-            // guna2Panel7
-            // 
-            guna2Panel7.BackColor = Color.Transparent;
-            guna2Panel7.BorderRadius = 12;
-            guna2Panel7.Controls.Add(label30);
-            guna2Panel7.Controls.Add(guna2CircleProgressBar3);
-            guna2Panel7.CustomizableEdges = customizableEdges11;
-            guna2Panel7.FillColor = Color.DarkSlateGray;
-            guna2Panel7.Location = new Point(29, 287);
-            guna2Panel7.Name = "guna2Panel7";
-            guna2Panel7.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            guna2Panel7.Size = new Size(468, 75);
-            guna2Panel7.TabIndex = 38;
-            // 
-            // label30
-            // 
-            label30.AutoSize = true;
-            label30.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label30.ForeColor = SystemColors.ActiveCaptionText;
-            label30.Location = new Point(100, 23);
-            label30.Name = "label30";
-            label30.Size = new Size(305, 31);
-            label30.TabIndex = 31;
-            label30.Text = "Learn French(Prepositions)";
-            // 
-            // guna2CircleProgressBar3
-            // 
-            guna2CircleProgressBar3.FillColor = Color.Yellow;
-            guna2CircleProgressBar3.FillThickness = 5;
-            guna2CircleProgressBar3.Font = new Font("Segoe UI", 12F);
-            guna2CircleProgressBar3.ForeColor = Color.White;
-            guna2CircleProgressBar3.Location = new Point(24, 14);
-            guna2CircleProgressBar3.Minimum = 0;
-            guna2CircleProgressBar3.Name = "guna2CircleProgressBar3";
-            guna2CircleProgressBar3.ProgressColor = Color.Yellow;
-            guna2CircleProgressBar3.ProgressColor2 = Color.FromArgb(255, 128, 0);
-            guna2CircleProgressBar3.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar3.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar3.ProgressThickness = 3;
-            guna2CircleProgressBar3.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            guna2CircleProgressBar3.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CircleProgressBar3.Size = new Size(47, 47);
-            guna2CircleProgressBar3.TabIndex = 7;
-            guna2CircleProgressBar3.Text = "guna2CircleProgressBar3";
-            guna2CircleProgressBar3.Value = 60;
-            // 
-            // guna2Panel8
-            // 
-            guna2Panel8.BackColor = Color.Transparent;
-            guna2Panel8.BorderRadius = 12;
-            guna2Panel8.Controls.Add(label31);
-            guna2Panel8.Controls.Add(guna2CircleProgressBar4);
-            guna2Panel8.CustomizableEdges = customizableEdges8;
-            guna2Panel8.FillColor = Color.DarkSlateGray;
-            guna2Panel8.Location = new Point(29, 368);
-            guna2Panel8.Name = "guna2Panel8";
-            guna2Panel8.ShadowDecoration.CustomizableEdges = customizableEdges9;
-            guna2Panel8.Size = new Size(468, 75);
-            guna2Panel8.TabIndex = 39;
-            // 
-            // label31
-            // 
-            label31.AutoSize = true;
-            label31.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label31.ForeColor = SystemColors.ActiveCaptionText;
-            label31.Location = new Point(100, 23);
-            label31.Name = "label31";
-            label31.Size = new Size(305, 31);
-            label31.TabIndex = 31;
-            label31.Text = "Learn French(Prepositions)";
-            // 
-            // guna2CircleProgressBar4
-            // 
-            guna2CircleProgressBar4.FillColor = Color.Yellow;
-            guna2CircleProgressBar4.FillThickness = 5;
-            guna2CircleProgressBar4.Font = new Font("Segoe UI", 12F);
-            guna2CircleProgressBar4.ForeColor = Color.White;
-            guna2CircleProgressBar4.Location = new Point(24, 14);
-            guna2CircleProgressBar4.Minimum = 0;
-            guna2CircleProgressBar4.Name = "guna2CircleProgressBar4";
-            guna2CircleProgressBar4.ProgressColor = Color.Yellow;
-            guna2CircleProgressBar4.ProgressColor2 = Color.FromArgb(255, 128, 0);
-            guna2CircleProgressBar4.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar4.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar4.ProgressThickness = 3;
-            guna2CircleProgressBar4.ShadowDecoration.CustomizableEdges = customizableEdges7;
-            guna2CircleProgressBar4.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CircleProgressBar4.Size = new Size(47, 47);
-            guna2CircleProgressBar4.TabIndex = 7;
-            guna2CircleProgressBar4.Text = "guna2CircleProgressBar4";
-            guna2CircleProgressBar4.Value = 60;
-            // 
-            // guna2Panel9
-            // 
-            guna2Panel9.BackColor = Color.Transparent;
-            guna2Panel9.BorderRadius = 12;
-            guna2Panel9.Controls.Add(label32);
-            guna2Panel9.Controls.Add(guna2CircleProgressBar5);
-            guna2Panel9.CustomizableEdges = customizableEdges5;
-            guna2Panel9.FillColor = Color.DarkSlateGray;
-            guna2Panel9.Location = new Point(29, 449);
-            guna2Panel9.Name = "guna2Panel9";
-            guna2Panel9.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            guna2Panel9.Size = new Size(468, 75);
-            guna2Panel9.TabIndex = 40;
-            // 
-            // label32
-            // 
-            label32.AutoSize = true;
-            label32.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label32.ForeColor = SystemColors.ActiveCaptionText;
-            label32.Location = new Point(100, 23);
-            label32.Name = "label32";
-            label32.Size = new Size(305, 31);
-            label32.TabIndex = 31;
-            label32.Text = "Learn French(Prepositions)";
-            // 
-            // guna2CircleProgressBar5
-            // 
-            guna2CircleProgressBar5.FillColor = Color.Yellow;
-            guna2CircleProgressBar5.FillThickness = 5;
-            guna2CircleProgressBar5.Font = new Font("Segoe UI", 12F);
-            guna2CircleProgressBar5.ForeColor = Color.White;
-            guna2CircleProgressBar5.Location = new Point(24, 14);
-            guna2CircleProgressBar5.Minimum = 0;
-            guna2CircleProgressBar5.Name = "guna2CircleProgressBar5";
-            guna2CircleProgressBar5.ProgressColor = Color.Yellow;
-            guna2CircleProgressBar5.ProgressColor2 = Color.FromArgb(255, 128, 0);
-            guna2CircleProgressBar5.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar5.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar5.ProgressThickness = 3;
-            guna2CircleProgressBar5.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            guna2CircleProgressBar5.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CircleProgressBar5.Size = new Size(47, 47);
-            guna2CircleProgressBar5.TabIndex = 7;
-            guna2CircleProgressBar5.Text = "guna2CircleProgressBar5";
-            guna2CircleProgressBar5.Value = 60;
-            // 
-            // guna2Panel10
-            // 
-            guna2Panel10.BackColor = Color.Transparent;
-            guna2Panel10.BorderRadius = 12;
-            guna2Panel10.Controls.Add(label33);
-            guna2Panel10.Controls.Add(guna2CircleProgressBar6);
-            guna2Panel10.CustomizableEdges = customizableEdges2;
-            guna2Panel10.FillColor = Color.DarkSlateGray;
-            guna2Panel10.Location = new Point(29, 530);
-            guna2Panel10.Name = "guna2Panel10";
-            guna2Panel10.ShadowDecoration.CustomizableEdges = customizableEdges3;
-            guna2Panel10.Size = new Size(468, 75);
-            guna2Panel10.TabIndex = 41;
-            // 
-            // label33
-            // 
-            label33.AutoSize = true;
-            label33.Font = new Font("Arial Narrow", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label33.ForeColor = SystemColors.ActiveCaptionText;
-            label33.Location = new Point(100, 23);
-            label33.Name = "label33";
-            label33.Size = new Size(305, 31);
-            label33.TabIndex = 31;
-            label33.Text = "Learn French(Prepositions)";
-            // 
-            // guna2CircleProgressBar6
-            // 
-            guna2CircleProgressBar6.FillColor = Color.Yellow;
-            guna2CircleProgressBar6.FillThickness = 5;
-            guna2CircleProgressBar6.Font = new Font("Segoe UI", 12F);
-            guna2CircleProgressBar6.ForeColor = Color.White;
-            guna2CircleProgressBar6.Location = new Point(24, 14);
-            guna2CircleProgressBar6.Minimum = 0;
-            guna2CircleProgressBar6.Name = "guna2CircleProgressBar6";
-            guna2CircleProgressBar6.ProgressColor = Color.Yellow;
-            guna2CircleProgressBar6.ProgressColor2 = Color.FromArgb(255, 128, 0);
-            guna2CircleProgressBar6.ProgressEndCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar6.ProgressStartCap = System.Drawing.Drawing2D.LineCap.Round;
-            guna2CircleProgressBar6.ProgressThickness = 3;
-            guna2CircleProgressBar6.ShadowDecoration.CustomizableEdges = customizableEdges1;
-            guna2CircleProgressBar6.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CircleProgressBar6.Size = new Size(47, 47);
-            guna2CircleProgressBar6.TabIndex = 7;
-            guna2CircleProgressBar6.Text = "guna2CircleProgressBar6";
-            guna2CircleProgressBar6.Value = 60;
-            // 
             // DashboardForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -1290,6 +1290,18 @@
             guna2Panel1.ResumeLayout(false);
             guna2Panel5.ResumeLayout(false);
             guna2Panel5.PerformLayout();
+            guna2Panel10.ResumeLayout(false);
+            guna2Panel10.PerformLayout();
+            guna2Panel9.ResumeLayout(false);
+            guna2Panel9.PerformLayout();
+            guna2Panel8.ResumeLayout(false);
+            guna2Panel8.PerformLayout();
+            guna2Panel7.ResumeLayout(false);
+            guna2Panel7.PerformLayout();
+            guna2Panel6.ResumeLayout(false);
+            guna2Panel6.PerformLayout();
+            guna2Panel2.ResumeLayout(false);
+            guna2Panel2.PerformLayout();
             guna2Panel16.ResumeLayout(false);
             guna2Panel16.PerformLayout();
             guna2Panel15.ResumeLayout(false);
@@ -1312,18 +1324,6 @@
             guna2Panel4.PerformLayout();
             guna2Panel3.ResumeLayout(false);
             guna2Panel3.PerformLayout();
-            guna2Panel2.ResumeLayout(false);
-            guna2Panel2.PerformLayout();
-            guna2Panel6.ResumeLayout(false);
-            guna2Panel6.PerformLayout();
-            guna2Panel7.ResumeLayout(false);
-            guna2Panel7.PerformLayout();
-            guna2Panel8.ResumeLayout(false);
-            guna2Panel8.PerformLayout();
-            guna2Panel9.ResumeLayout(false);
-            guna2Panel9.PerformLayout();
-            guna2Panel10.ResumeLayout(false);
-            guna2Panel10.PerformLayout();
             ResumeLayout(false);
         }
 
