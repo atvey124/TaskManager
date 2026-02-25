@@ -6,8 +6,8 @@ namespace TaskManager
 {
     public partial class MainForm : Form
     {
-        DashboardForm dashboardForm = new DashboardForm();
-        TasksForm tasksForm = new TasksForm();
+        private readonly DashboardForm dashboardForm = new DashboardForm();
+        private readonly TasksForm tasksForm = new TasksForm();
 
         public MainForm()
         {

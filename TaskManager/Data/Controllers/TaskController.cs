@@ -14,5 +14,19 @@ namespace TaskManager.Data.Controllers
         {
             InitializeComponent();
         }
+
+        private void TickCheckBox_Click(object sender, EventArgs e)
+        {
+            if (TickCheckBox.Checked)
+            {
+                StatusLabel.Text = "Completed";
+                StatusLabel.ForeColor = Color.Lime;
+            }
+            else
+            {
+                StatusLabel.Text = "Pending..";
+                StatusLabel.ForeColor = Color.Yellow;
+            }
+        }
     }
 }
