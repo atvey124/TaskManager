@@ -5,23 +5,20 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using TaskManager.Data.Controllers;
 
 namespace TaskManager.View.Forms
 {
-    public partial class TasksForm : Form
+    public partial class UserInputTaskForm : Form
     {
-
-        public TasksForm()
+        public UserInputTaskForm()
         {
             InitializeComponent();
+            ShowInTaskbar = false;
         }
 
-        private void AddTaskButton_Click(object sender, EventArgs e)
+        private void CancelButton_Click(object sender, EventArgs e)
         {
-            UserInputTaskForm UI = new UserInputTaskForm();
-            UI.Owner = this;
-            UI.ShowDialog();
+            this.Close();
         }
     }
 }
